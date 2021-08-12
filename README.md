@@ -16,7 +16,7 @@ docker run --rm -i -v "$PWD":/data latex pdflatex TuyenNNT-CV.tex
 
 ### 4. Preview
 
-![Resume Screenshot](/TuyenNNT-CV.png)
+![Resume Screenshot](\TuyenNNT-CV.png)
 
 ### 5. License
 
